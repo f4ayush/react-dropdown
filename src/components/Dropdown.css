@@ -1,0 +1,21 @@
+body{
+    background-color: #7BD7E2;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button, li{
+    background-color: white;
+    border: none;
+    padding: 5px;
+    width: 150px;
+    align-self: center;
+}
+
+li{
+    list-style: none;
+}
